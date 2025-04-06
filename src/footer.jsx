@@ -1,7 +1,10 @@
 function Footer(){
+
     return(
         <>
-        <h1> mohammad jun3ed</h1>
+        <div style={{backgroundColor: "black", color:"white"}}>
+            <h1> footer this part</h1>
+        </div>
         </>
     )
 }

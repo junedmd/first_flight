@@ -1,4 +1,4 @@
-const Greet = () => {
+const Sidebar = () => {
     return (
        <>
              <h1> this is a sidebar</h1>
@@ -6,4 +6,4 @@ const Greet = () => {
 
     )
   };
-export default Greet();  
+export default Sidebar;  
