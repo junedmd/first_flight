@@ -9,6 +9,8 @@ function App() {
     <>
      <Router>
       <Navbar />
+      <h1> juned </h1>
+      <p> mohammad juned</p>
       <Routes>
         <Route path="/signup" element={<Signup />} />
         
